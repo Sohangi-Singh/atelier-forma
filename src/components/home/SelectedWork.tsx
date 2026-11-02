@@ -9,7 +9,7 @@ const third = getProject("the-still-house")!;
 
 export function SelectedWork() {
   return (
-    <section aria-labelledby="selected-work-title" className="container-site pb-28 lg:pb-44">
+    <section aria-labelledby="selected-work-title" className="container-site pb-28 lg:pb-36">
       <div className="flex flex-wrap items-end justify-between gap-8 border-t border-line pt-10">
         <div>
           <SectionLabel index="02">Concept projects</SectionLabel>

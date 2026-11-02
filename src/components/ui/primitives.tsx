@@ -71,16 +71,26 @@ interface ButtonLinkProps {
   href: string;
   children: React.ReactNode;
   className?: string;
-  variant?: "solid" | "outline" | "outline-light";
+  variant?: "solid" | "solid-light" | "outline" | "outline-light";
+  /** Pass false for links visible on first paint whose route would compete with page load. */
+  prefetch?: boolean;
 }
 
-export function ButtonLink({ href, children, className, variant = "solid" }: ButtonLinkProps) {
+export function ButtonLink({
+  href,
+  children,
+  className,
+  variant = "solid",
+  prefetch,
+}: ButtonLinkProps) {
   return (
     <Link
       href={href}
+      prefetch={prefetch}
       className={cn(
         "group inline-flex min-h-12 items-center justify-center gap-3 px-6 text-[0.8125rem] font-medium tracking-[0.12em] uppercase transition-colors duration-500",
         variant === "solid" && "bg-ink text-ivory hover:bg-olive-deep",
+        variant === "solid-light" && "focus-light bg-ivory text-ink hover:bg-sand",
         variant === "outline" && "border border-ink/70 text-ink hover:bg-ink hover:text-ivory",
         variant === "outline-light" &&
           "focus-light border border-ivory/70 text-ivory hover:bg-ivory hover:text-ink",

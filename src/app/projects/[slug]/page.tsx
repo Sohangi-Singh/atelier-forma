@@ -123,7 +123,7 @@ export default async function ProjectPage({ params }: PageProps<"/projects/[slug
         </div>
       )}
 
-      <section aria-labelledby={`${project.slug}-concept`} className="container-site py-24 lg:py-36">
+      <section aria-labelledby={`${project.slug}-concept`} className="container-site pt-24 pb-10 lg:pt-36 lg:pb-16">
         <div className="grid gap-14 lg:grid-cols-12">
           <aside className="self-start border-t border-line pt-8 lg:sticky lg:top-28 lg:col-span-4">
             <dl className="grid grid-cols-1 gap-x-8 gap-y-7 sm:grid-cols-2 lg:grid-cols-1">

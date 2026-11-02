@@ -56,26 +56,31 @@ export function StoryBlock({ block }: { block: StoryBlockData }) {
 
     case "split": {
       const imageRight = block.align === "image-right";
+      const portrait = isPortrait(block.image);
+      // Portrait frames take five columns so the text keeps its weight beside them.
       return (
         <div className="container-site grid items-center gap-10 py-12 lg:grid-cols-12 lg:gap-8 lg:py-20">
           <EditorialImage
             image={block.image}
-            aspect={isPortrait(block.image) ? "aspect-[4/5]" : "aspect-[4/3]"}
-            sizes="(min-width: 1440px) 660px, (min-width: 1024px) 48vw, 100vw"
+            aspect={portrait ? "aspect-[4/5]" : "aspect-[4/3]"}
+            sizes={
+              portrait
+                ? "(min-width: 1440px) 540px, (min-width: 1024px) 40vw, 100vw"
+                : "(min-width: 1440px) 660px, (min-width: 1024px) 48vw, 100vw"
+            }
             className={cn(
-              "lg:col-span-6",
-              isPortrait(block.image) && "sm:w-3/4 lg:w-full",
-              imageRight && "lg:order-2 lg:col-start-7",
+              portrait ? "sm:w-3/4 lg:col-span-5 lg:w-full" : "lg:col-span-6",
+              imageRight && (portrait ? "lg:order-2 lg:col-start-8" : "lg:order-2 lg:col-start-7"),
             )}
           />
           <Reveal
             className={cn(
               "lg:col-span-4",
-              imageRight ? "lg:order-1 lg:col-start-2" : "lg:col-start-8",
+              imageRight ? "lg:order-1 lg:col-start-2" : portrait ? "lg:col-start-7" : "lg:col-start-8",
             )}
           >
             <h2 className="font-serif text-display-sm font-light">{block.heading}</h2>
-            <p className="mt-6 leading-relaxed text-stone">{block.body}</p>
+            <p className="mt-6 max-w-md text-[1.0625rem] leading-relaxed text-stone">{block.body}</p>
           </Reveal>
         </div>
       );

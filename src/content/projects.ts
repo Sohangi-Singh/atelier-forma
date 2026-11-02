@@ -23,7 +23,7 @@ export const projects: Project[] = [
     lede: "The Still House imagines a retreat in which almost nothing competes for attention. Rooms are reduced to timber, plaster and light, so guests begin to notice the weather, the grain and the quiet.",
     narrative: [
       "The concept starts from a single question: what does a room need to hold if its only purpose is rest? The answer shaped every decision — low furniture that keeps the eye close to the floor, deep window reveals that slow the light, and a palette drawn from the materials of the site itself.",
-      "Reclaimed beams and hand-cut timber blocks are left visibly worked, set against limewashed walls that shift in tone through the day. Storage disappears into thickened walls, so each room shows only what is in use.",
+      "Reclaimed timber is left visibly worked, set against limewashed walls that shift in tone through the day as leaf shadows move across them. Storage disappears into thickened walls, so each room shows only what is in use.",
     ],
     scope: [
       "Spatial concept",
@@ -36,7 +36,7 @@ export const projects: Project[] = [
     story: [
       {
         type: "duo",
-        images: [images["still-house-bench"], images["still-house-chest"]],
+        images: [images["still-house-stones"], images["still-house-driftwood"]],
       },
       {
         type: "split",
@@ -47,15 +47,15 @@ export const projects: Project[] = [
       },
       {
         type: "split",
-        image: images["still-house-beam"],
-        heading: "Structure as ornament",
-        body: "Rather than concealing the frame, the concept celebrates it. Weathered beams and posts become the only decoration overhead, washed by small, low-glare lights that keep evenings dim and restful.",
+        image: images["still-house-bedside"],
+        heading: "Rest within reach",
+        body: "Guest rooms keep only what the evening needs: a sawn timber stump beside the bed, a linen headboard and one brass lamp on a short arm. Light stays low and close to the pillow, so the room around it can fall quiet.",
         align: "image-right",
       },
     ],
     palette: [
       { name: "Limewash", note: "Soft, breathable walls", swatch: "#e4ddd1" },
-      { name: "Reclaimed oak", note: "Beams, benches, blocks", swatch: "#6b4e37" },
+      { name: "Reclaimed oak", note: "Benches and bedside blocks", swatch: "#6b4e37" },
       { name: "Rammed earth", note: "Thresholds and hearth", swatch: "#b59b7e" },
       { name: "Raw linen", note: "Curtains and cushions", swatch: "#d9d1c3" },
       { name: "Charcoal clay", note: "Vessels and fittings", swatch: "#3a3631" },
@@ -113,10 +113,10 @@ export const projects: Project[] = [
     setting: "A sunlit hillside — imagined setting",
     summary:
       "A concept for a residence's private wing, wrapped in vein-cut travertine and warm timber, where bathing becomes a slow daily ritual.",
-    lede: "Terra Residence explores how a few honest materials — travertine, oak and clay — can turn the most functional rooms of a home into its calmest.",
+    lede: "Terra Residence explores how a few honest materials — travertine, oak and terrazzo — can turn the most functional rooms of a home into its calmest.",
     narrative: [
       "The bathing rooms are treated as architecture rather than fit-out. Travertine runs from floor to ceiling in long, unbroken planes, and a carved basin sits on a floating oak plinth so the floor appears to continue beneath it.",
-      "Light is kept low and indirect: a concealed strip washes the shower bench, and one dark pendant anchors the vanity. A second, clay-tiled washroom introduces warmer colour while holding the same calm geometry.",
+      "Light is kept low and indirect: a concealed strip washes the shower bench, and one dark pendant anchors the vanity. In the main bathroom a freestanding bath stands beside a tall shaded window, on a terrazzo floor that runs unbroken from wall to wall.",
     ],
     scope: [
       "Bathroom and suite concept",
@@ -134,16 +134,16 @@ export const projects: Project[] = [
       },
       {
         type: "split",
-        image: images["terra-clay"],
-        heading: "A warmer counterpoint",
-        body: "The guest washroom shifts the palette toward terracotta while keeping the same discipline — one stone basin, one round mirror, timber held low.",
+        image: images["terra-bath"],
+        heading: "A bath set apart",
+        body: "Nothing is built around the bath. It stands free of the walls beside the window, so bathing reads as an occasion rather than a routine, and the light changes with the blind rather than a switch.",
         align: "image-left",
       },
     ],
     palette: [
       { name: "Vein-cut travertine", note: "Walls and floors", swatch: "#d8ccb8" },
       { name: "Smoked oak", note: "Vanity plinths", swatch: "#7a5a40" },
-      { name: "Terracotta tile", note: "Guest washroom", swatch: "#b5654a" },
+      { name: "Grey terrazzo", note: "Bathroom floor", swatch: "#bab4aa" },
       { name: "Honed limestone", note: "Basins and benches", swatch: "#e4ddcf" },
       { name: "Blackened steel", note: "Taps and fittings", swatch: "#2e2d2a" },
     ],

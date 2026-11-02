@@ -21,7 +21,8 @@ type Status =
   | { kind: "error"; message: string };
 
 const fieldClass =
-  "mt-2 block w-full border-0 border-b border-ink/25 bg-transparent px-0 py-3 text-[1rem] text-ink placeholder:text-stone/70 transition-colors duration-300 focus:border-ink focus:ring-0 focus:outline-none aria-[invalid=true]:border-error";
+  // Focus doubles the underline to 2px in ink rather than drawing a box around an underlined field.
+  "mt-2 block w-full border-0 border-b border-ink/25 bg-transparent px-0 py-3 text-[1rem] text-ink placeholder:text-stone/70 transition-[border-color,box-shadow] duration-300 focus:border-ink focus:shadow-[0_1px_0_0_var(--color-ink)] focus:ring-0 focus:outline-none aria-[invalid=true]:border-error aria-[invalid=true]:focus:shadow-[0_1px_0_0_var(--color-error)]";
 
 function FieldMessage({ id, error }: { id: string; error?: FieldError }) {
   if (!error?.message) return null;

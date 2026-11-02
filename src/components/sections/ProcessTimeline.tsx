@@ -52,14 +52,16 @@ export function ProcessTimeline({
                 dark ? "border-ivory/20" : "border-ink/15",
               )}
             >
+              {/* The marker sits outside the reveal: a transformed ancestor would become its
+                  containing block and lift it off the rule until the animation ended. */}
+              <span
+                aria-hidden="true"
+                className={cn(
+                  "absolute -top-[5px] left-0 size-[9px] rounded-full",
+                  dark ? "bg-ivory" : "bg-olive",
+                )}
+              />
               <Reveal delay={stepIndex * 0.1}>
-                <span
-                  aria-hidden="true"
-                  className={cn(
-                    "absolute -top-[5px] left-0 size-[9px] rounded-full",
-                    dark ? "bg-ivory" : "bg-olive",
-                  )}
-                />
                 <p
                   className={cn(
                     "font-serif text-[3.5rem] leading-none font-extralight",

@@ -44,7 +44,7 @@ export const images = {
     height: 2397,
     alt: "Afternoon light casting window-frame shadows across a pale wall above a sofa and a round timber side table.",
     blurDataURL:
-      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYABADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCAwQG/8QAIxAAAgAFAwUBAAAAAAAAAAAAAQIAAwQRIQUSEyIxQWFxMv/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAECEf/aAAwDAQACEQMRAD8Av008glbioILjH2M9VScVRuAsjkkesnET09rKqqourOQTjzDKZKM+jtcMS919d4AOdpqqbLKCQgM4uf127mHa6jLkW52lptPUofIbzj6YIImnjLlaf//Z",
+      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYABADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBAb/xAAjEAACAAUDBQEAAAAAAAAAAAABAgADBBEhBRITIjFBYXEy/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAXEQADAQAAAAAAAAAAAAAAAAAAAQIR/9oADAMBAAIRAxEAPwB+mnkErcVBBcY+xmqqTiqNwFkckj1k4hmntZUVQLqzkE48xRmSjPo7XDEvdfXeCU52mqpssoJCAzi5/XbuYuLqMuRbnaWm09Sh8hvOPpggg08YpWo//9k=",
     credit: { photographer: "Suhyeon Choi", url: "https://unsplash.com/photos/sunlit-interior-with-sofa-and-table-ehxwis6Ltxg" },
   },
   "service-spatial": {
@@ -71,7 +71,7 @@ export const images = {
     height: 1600,
     alt: "An empty historic room with weathered stone and plaster walls, a timber ceiling and two deep-set windows.",
     blurDataURL:
-      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAE/8QAIRAAAgAFBAMAAAAAAAAAAAAAAQIAAwQRIQUSEzFhcdH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQBREv/aAAwDAQACEQMRAD8ASilE0RcTXx1nxBalJIkS7zHO9d3fr7GSgu1GrFmuBjJi1AcdGGUkE2vkmA5MnF2//9k=",
+      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEE/8QAIRAAAQMEAgMBAAAAAAAAAAAAAQIDBAAREiEFMUFhcdH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREv/aAAwDAQACEQMRAD8ASE0TCKw6vXW/QouSZIYbu4s5py7+ftZYF1Q0qJVcDWzU5BOES6SQTbyaHKGrP//Z",
     credit: { photographer: "Margo Evardson", url: "https://unsplash.com/photos/an-empty-old-room-with-two-windows-and-distressed-walls-MQE7ld8vxLI" },
   },
   "services-hero": {
@@ -80,7 +80,7 @@ export const images = {
     height: 1576,
     alt: "A pale concrete stair climbing across a sunlit concrete wall.",
     blurDataURL:
-      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAHxAAAgEEAgMAAAAAAAAAAAAAAQIDAAQFERITITFR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/AKVtlbZkDPJ1kew/g0uO5huYi0brIv1TWc0ONEgdo8pCI2Khjo8TrdTpX//Z",
+      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIBAAAgEDBAMAAAAAAAAAAAAAAQIDAAQRBRITMRRRgf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AK1rqVvIgblVPYc7SKSJop49ysrKeipyKzW0YxgULnltLuPx3MYdgGA6PyoNf//Z",
     credit: { photographer: "Dorsa Masghati", url: "https://unsplash.com/photos/white-concrete-wall-during-daytime-NRLnzGXtoE4" },
   },
   "studio-hero": {
@@ -89,7 +89,7 @@ export const images = {
     height: 1598,
     alt: "Angled sunlight and deep shadow falling across a concrete facade.",
     blurDataURL:
-      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDBf/EACIQAAIBAwIHAAAAAAAAAAAAAAECAwAEERIhBhUxMlFxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AcV8F4mkkbtdFjUnwQMGi2voed31zOQpUFULbYA6/dqwzK7smps6VwPVTkJJJJyTUH//Z",
+      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDBf/EACIQAAIBAwIHAAAAAAAAAAAAAAECAwAEERIhBhUxMlFxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/AHFfBeJ5JG7XRY1J8EDBotr6Hnd9czkKVBVC22AOv3asMyu7R6mzpXA9VOQkkknJNTB//9k=",
     credit: { photographer: "Anton Lammert", url: "https://unsplash.com/photos/the-shadow-of-a-building-on-the-side-of-it-oMCC7gKDBYE" },
   },
   "studio-vessels": {
@@ -107,7 +107,7 @@ export const images = {
     height: 2400,
     alt: "A glass vase of wild flowers on a perforated timber shelf against a white wall.",
     blurDataURL:
-      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYABADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAeEAEAAgICAwEAAAAAAAAAAAABAgMAERIhBCIxQv/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERAv/aAAwDAQACEQMRAD8AvWso1MoAsTfeM9vXYDrszLCUqpAxdnxxbO2Eo86ySH4liiHUCVqG+vmS7fPhy52VzjwFdG8MMjTaZWVT/9k=",
+      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYABADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAgEAACAgICAgMAAAAAAAAAAAABAgADERIhIgQxE0Jh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREC/9oADAMBAAIRAxEAPwC9aWWpmQAkDPMZ265ABxyJlkZqWAKkMPRiy9qMu9YYgfRoaWHTg/FkDPHqTLvPTbeyt11BJwM/sIQabTFlU//Z",
     credit: { photographer: "Sarah PASA", url: "https://unsplash.com/photos/a-wooden-shelf-with-a-vase-of-flowers-on-top-of-it-Gti_gcDiWX8" },
   },
   "not-found-room": {
@@ -128,32 +128,33 @@ export const images = {
       "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEF/8QAHxAAAgIBBAMAAAAAAAAAAAAAAQIDEQAEBSFxEhQx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAWEQADAAAAAAAAAAAAAAAAAAAAEiH/2gAMAwEAAhEDEQA/AJt0uhjgLvqEZlFlV+47z6RdxSdo2eKMAEgA0x6zI26NWL+Quksd3ixMfaWuLN8cZNqNIf/Z",
     credit: { photographer: "Daniel Chen", url: "https://unsplash.com/photos/brown-wooden-bench-near-window-SoNaNOFT974" },
   },
-  "still-house-bench": {
-    src: "/images/projects/still-house-bench.jpg",
-    width: 1800,
+  "still-house-stones": {
+    src: "/images/projects/still-house-stones.jpg",
+    width: 2400,
     height: 1800,
-    alt: "A rough-hewn timber bench and wooden blocks against a softly lit plaster wall.",
+    alt: "Three smooth river stones stacked on a pale plaster ledge, with soft leaf shadows on the wall behind.",
     blurDataURL:
-      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgUG/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIDEQAEBSFBYbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/AKutsdVfjE8hu8ysvI7Cu4RaQGh0fuCB93YkUNNOAwJJF0PWCG//2Q==",
-    credit: { photographer: "AllysherLow", url: "https://unsplash.com/photos/a-wooden-bench-sitting-next-to-a-couple-of-wooden-blocks-anPRM2-kZxY" },
+      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgEE/8QAIBAAAgEEAQUAAAAAAAAAAAAAAQIRAAMhIkESMVFx0f/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDOLhc6yo5gd6t0EXOl5kYzQw6hSo980yVna2rHySftCR//2Q==",
+    credit: { photographer: "Taitopia Render", url: "https://unsplash.com/photos/a-stack-of-rocks-sitting-on-top-of-a-table-d84kZacg3tc" },
   },
-  "still-house-chest": {
-    src: "/images/projects/still-house-chest.jpg",
-    width: 1800,
+  "still-house-driftwood": {
+    src: "/images/projects/still-house-driftwood.jpg",
+    width: 2400,
     height: 1800,
-    alt: "Stacked blocks of reclaimed timber beside a tall dark vessel of bare branches, with a linen curtain beyond.",
+    alt: "A weathered branch and broken plaster blocks on a pale floor beneath dappled leaf shadows.",
     blurDataURL:
-      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwT/xAAgEAACAQQBBQAAAAAAAAAAAAABAgMAERIhBAUiMUHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAMAwEAAhEDEQA/AFRCksRBuJSPVrUqdVhRyVjJA7Qchuop+C6RhmlYyXBUDwPr1HwXxyR9goRqiWUN7f/Z",
-    credit: { photographer: "AllysherLow", url: "https://unsplash.com/photos/a-large-wooden-chest-of-drawers-in-a-room-Wn2FlrxJqa4" },
+      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAIBABAAICAQQDAAAAAAAAAAAAAQIRAAMhBAUSUTFSYf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A22amT9NdcvvCdwiaxlFsYnj+5aeom626p4SuMYbUYKRkSiWSLPn1kif/2Q==",
+    credit: { photographer: "Taitopia Render", url: "https://unsplash.com/photos/a-piece-of-wood-sitting-on-top-of-a-floor-next-to-a-wall-jW8ruUfLkaM" },
+    focus: "60% 50%",
   },
-  "still-house-beam": {
-    src: "/images/projects/still-house-beam.jpg",
-    width: 1800,
-    height: 1800,
-    alt: "Exposed timber beams and posts beneath a weathered, softly lit ceiling.",
+  "still-house-bedside": {
+    src: "/images/projects/still-house-bedside.jpg",
+    width: 2400,
+    height: 1600,
+    alt: "A brass wall lamp lighting a sawn timber stump beside a bed with a linen headboard.",
     blurDataURL:
-      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwT/xAAiEAACAQQBBAMAAAAAAAAAAAABAgMAESFBBAUSEzFRYXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AKWVuIUDOA7C9jofdLxZo+TH5FtGxNiL4J/dVPzEkyZoXEchuwHtzruOgNAUh6eUe8LmLHoZBx8URH//Z",
-    credit: { photographer: "AllysherLow", url: "https://unsplash.com/photos/a-wooden-beam-in-the-ceiling-of-a-room-kHsrTPTmTbQ" },
+      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EAB0QAAICAwADAAAAAAAAAAAAAAEDAhEABBITIVH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABcRAQADAAAAAAAAAAAAAAAAAAABMUH/2gAMAwEAAhEDEQA/ADTySLxblSdt+JLDAcX9yHZZKMRRr3mjoEx1lEGiRZOEWrH/2Q==",
+    credit: { photographer: "ubeyonroad", url: "https://unsplash.com/photos/bedside-lamp-illuminates-a-wooden-stump-table-dV-7TJl-x2Y" },
   },
   "still-house-niche": {
     src: "/images/projects/still-house-niche.jpg",
@@ -188,7 +189,7 @@ export const images = {
     height: 1601,
     alt: "A walnut kitchen with a white stone island and a row of timber stools.",
     blurDataURL:
-      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgME/8QAIxAAAQMDAgcAAAAAAAAAAAAAAQIDEQAEMQUhEhMUI1GB0f/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAXEQEBAQEAAAAAAAAAAAAAAAARAAES/9oADAMBAAIRAxEAPwBXzLfULSLstkIB4JGSKw2K313LaHHu1MGY8VfVN3BMb5MZz8o6UhPMc2Bxn3QLs/Jjf//Z",
+      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDBP/EACUQAAEDAwALAAAAAAAAAAAAAAECAxEABAUSExQhIiMxQVHB8P/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oADAMBAAIRAxEAPwBr5lvaFpF0UEIB0JB3kVhsVvLuW0OO8qYMx4q2TMrExJiTHX6KGKQnWOcI7e6G6NIj/9k=",
     credit: { photographer: "Clay Banks", url: "https://unsplash.com/photos/modern-kitchen-with-walnut-cabinetry-TDXF1KUyyTk" },
   },
   "house-of-light-curve": {
@@ -228,14 +229,14 @@ export const images = {
       "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDBP/EACQQAAEDAwIHAQAAAAAAAAAAAAEAAgMRITESEwQiMjNRYYGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8AbO3Y0Kyx8Y5jpddHUNgBge1QSkEgtAYMOrn4sIrJuaL3OFM4Yfq6rjwrxxtbERHJtg25hX9QhA3/2Q==",
     credit: { photographer: "Peter Muniz", url: "https://unsplash.com/photos/modern-shower-stall-with-stone-tiles-and-bench-ZFkvylq-n9A" },
   },
-  "terra-clay": {
-    src: "/images/projects/terra-clay.jpg",
+  "terra-bath": {
+    src: "/images/projects/terra-bath.jpg",
     width: 1600,
-    height: 2134,
-    alt: "A terracotta-tiled bathroom with a stone pedestal basin, timber cabinets and a round mirror.",
+    height: 2400,
+    alt: "A freestanding white bath on a grey terrazzo floor beside a tall window with a dark blind.",
     blurDataURL:
-      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAVABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EACAQAAICAgICAwAAAAAAAAAAAAECAAMEERIxBSETMlH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAMAwEAAhEDEQA/AMv53WxgGbQHQMdiXvYyNybRPRMlQK1xPIjZmhTUiOhL79g6Ov2DMKW9LKPCY1ShmL2Edcj1Gth4vJGNCsy/Ut71CEaInrP/2Q==",
-    credit: { photographer: "Ela De Pure", url: "https://unsplash.com/photos/modern-bathroom-with-stone-sink-wooden-cabinets-and-round-mirror-3E3OowQoPMY" },
+      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGBP/EACIQAAIBAwQCAwAAAAAAAAAAAAECEQADBAUTITESFEFhcf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABYRAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEQMRAD8Ad5BG1uKhAIJg1O4+rZWTk2rfrKiO0Tyaod9XxiHYSZjip3B0y7j6hZum9bZEYGJM9flZyU4ybofp/H6jisasUuhjdED4C90UUV//2Q==",
+    credit: { photographer: "Jean-Philippe Delberghe", url: "https://unsplash.com/photos/white-ceramic-bathtub-near-window-O0mWkPghw6E" },
   },
   "courtyard-hero": {
     src: "/images/projects/courtyard-hero.jpg",
@@ -243,7 +244,7 @@ export const images = {
     height: 1350,
     alt: "A small courtyard garden enclosed by a weathered brick wall and timber lattice shelving, with a slender tree.",
     blurDataURL:
-      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIEBf/EACIQAAICAQEJAAAAAAAAAAAAAAECAAMEIQUREiIzNFFzsv/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEx/9oADAMBAAIRAxEAPwAZ+0b6s2hVsU1MCCpG8HmIkzZ72oq8WgGg8Rr+vT6z9GZZ7mB5Mcv/2Q==",
+      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIEBf/EACAQAQACAQQCAwAAAAAAAAAAAAECAwAEESFBBTM0c7L/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARMf/aAAwDAQACEQMRAD8AGv8AI31a2iJYNUhGKbjyneTS187YRjvwHAdY13vp+t/TmY/IwvJDl//Z",
     credit: { photographer: "Rajith Jayawardana", url: "https://unsplash.com/photos/a-room-with-a-brick-wall-and-a-tree-in-the-corner-yJlnlQ3Qm7k" },
   },
   "courtyard-lattice": {
@@ -252,7 +253,7 @@ export const images = {
     height: 1350,
     alt: "Timber lattice shelving screening a bright white room with a long sofa and a glimpse of the courtyard.",
     blurDataURL:
-      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAE/8QAHxAAAgICAQUAAAAAAAAAAAAAAQIEEQADMwUxcoGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAESH/2gAMAwEAAhEDEQA/AE6VIZoT0xfZZCgkkk12GUtJe1i2hXq6tWrNsPh9YurjPkfuQbtf/9k=",
+      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAE/8QAIBAAAgICAQUBAAAAAAAAAAAAAQIDEQAEMwUSIXKBsf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEh/9oADAMBAAIRAxEAPwBOlTs2i5Vi8nntBJJJqwBluJtysza6yVdWrVm7U4fmJFxn2b9yTdr/2Q==",
     credit: { photographer: "Rajith Jayawardana", url: "https://unsplash.com/photos/a-white-couch-sitting-in-a-living-room-next-to-a-window-91-cEibWbvk" },
   },
   "courtyard-reading": {
@@ -261,7 +262,7 @@ export const images = {
     height: 1350,
     alt: "A white sofa set against a brick wall framed by deep timber shelving.",
     blurDataURL:
-      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAgX/xAAiEAABBAECBwAAAAAAAAAAAAACAAEDEQQSwQUxM0JRcXT/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAGBEBAQADAAAAAAAAAAAAAAAAAQACETH/2gAMAwEAAhEDEQA/AHi5We8VRgRgzvpIgu2vyiOdJU8spM7hIA6aph52q0HQj9bqB2cQ+jckCORrl//Z",
+      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEC/8QAIhAAAQQBAgcAAAAAAAAAAAAAAgABAxEEEsEFMTI0UXF0/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAMAwEAAhEDEQA/ANYuVnvFUYEYM76SILtr8qDnSVPLKTO4SAOmqYedpaDt4/W6Afo4h9G5IEUzl//Z",
     credit: { photographer: "Rajith Jayawardana", url: "https://unsplash.com/photos/a-white-couch-sitting-in-a-living-room-next-to-a-book-shelf-4doE-KezRXg" },
   },
   "courtyard-stair": {
@@ -270,7 +271,7 @@ export const images = {
     height: 2400,
     alt: "A stair with a timber handrail beside a perforated brick screen and courtyard greenery.",
     blurDataURL:
-      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGBP/EACEQAAICAgIBBQAAAAAAAAAAAAECAxEABBIhUQUTMYHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAgP/2gAMAwEAAhEDEQA/AFOtZYUe8abOu1Ryce2UMTyq8TQyhRyBFDs5RaXqcGxHBrbEYaIjix8fFHyMy51Nl70nCaOodYL7rB1fogWKrN8USRKxVR92f3DDFKhT/9k=",
+      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGBP/EAB8QAAEEAwEAAwAAAAAAAAAAAAECAwQRABIhUQUxwf/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EABgRAAIDAAAAAAAAAAAAAAAAAAARAQIh/9oADAMBAAIRAxEAPwBTGsqFHuNJMdVNua9WkKJ2q7xMy6EjYEUOnKKF8mzIbYjSGwpqtVk/Q8PozOmF3lomjEMbUOqC0r4QLFV3N7TSGkkpSO+2f3DDGNBn/9k=",
     credit: { photographer: "Rajith Jayawardana", url: "https://unsplash.com/photos/a-stair-case-next-to-a-wooden-hand-rail-eWf6dPr2cAg" },
   },
   "quiet-table-hero": {
@@ -288,7 +289,7 @@ export const images = {
     height: 2400,
     alt: "A warm corner with a timber table, spindle-back chairs and a brass wall light against a blush plaster wall.",
     blurDataURL:
-      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYABADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAhEAACAgEEAgMAAAAAAAAAAAABAgADBBESITEFExQiYf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGhEBAQACAwAAAAAAAAAAAAAAAQACERIhMf/aAAwDAQACEQMRAD8AqzaKarXQVqQOvqJmnFotodwg3L0NgjvJMpvYg8GRUZVlfsVUsCacnTuTvtUd4y/JHIRiz2IVHYAnA+SA+prHHBG46H9hCM4gxcnRf//Z",
+      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYABADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAhEAACAgEEAgMAAAAAAAAAAAABAgADMQQREiEFExQiYf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGhEBAQACAwAAAAAAAAAAAAAAAQACERIhMf/aAAwDAQACEQMRAD8Aq1tFNVrp6wQMfUTNOlotpdwg5LgcBHeSZTexB6Mio1VtfsCpYE27O2YD7UneMvyR1CNyexCoyAJwPkgPuax1kcjsf2EIriDFydX/2Q==",
     credit: { photographer: "Sandie Clarke", url: "https://unsplash.com/photos/warm-interior-with-wooden-table-chairs-and-wall-light-RQrTv-1i5MM" },
   },
   "quiet-table-detail": {
@@ -306,7 +307,7 @@ export const images = {
     height: 1600,
     alt: "Round café tables and woven-seat chairs beside a large street-facing window.",
     blurDataURL:
-      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIBABAAEEAgIDAAAAAAAAAAAAAQIAAxExBRIEIRUyUf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQADAQEAAAAAAAAAAAAAAAAAASEiMf/aAAwDAQACEQMRAD8A1/K8SWulnJ2NkdUdy/IW704sLYW36q7oduSPDgCewNH61JiYzj3honqMRTh//9k=",
+      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIBABAAEEAgIDAAAAAAAAAAAAAQIAAxExBRIEFSEyUf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAXEQADAQAAAAAAAAAAAAAAAAAAASEx/9oADAMBAAIRAxEAPwDX7XiS10s5OxsjqjuX5C3enFhbC2/VXdDNyR4cQTCBo/WpyiYzj5w0buiKYf/Z",
     credit: { photographer: "Mustafa Sheikhmouss", url: "https://unsplash.com/photos/cafe-tables-with-woven-chairs-TzBFk5nzAKY" },
   },
   "quiet-table-evening": {
@@ -315,7 +316,7 @@ export const images = {
     height: 1600,
     alt: "White blossoms in a clear glass vase on a polished wooden table in low evening light.",
     blurDataURL:
-      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFBv/EACAQAAICAgEFAQAAAAAAAAAAAAECAxEABCESIjFBQmH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEAAwEAAAAAAAAAAAAAAAAAABIhE//aAAwDAQACEQMRAD8AzUAioNI3CkdQq+MHaVTsStGtR3YAHgessqqBVAjQcj4GK3e2aQKAB+CsB6PnD//Z",
+      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFBv/EAB8QAAIBBAIDAAAAAAAAAAAAAAECAwAEERIhQTFCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAWEQADAAAAAAAAAAAAAAAAAAAAEiH/2gAMAwEAAhEDEQA/AM1AItQ0jcKQSMdUN0qm4laJcR5yAB4HVWUVQqgIg5HoKVenWaQKAB8FC9GSH//Z",
     credit: { photographer: "Andrey Kremkov", url: "https://unsplash.com/photos/white-flowers-in-clear-glass-vase-on-brown-wooden-table-TNXMvUxkYyI" },
   },
   "form-hero": {
@@ -351,7 +352,7 @@ export const images = {
     height: 2400,
     alt: "A long, gently curving white corridor with a polished concrete floor.",
     blurDataURL:
-      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYABADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBv/EACUQAAIBAwIFBQAAAAAAAAAAAAECAwAEEQUSBhMUITFBYXHR8f/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABURAQEAAAAAAAAAAAAAAAAAAABB/9oADAMBAAIRAxEAPwAPE9hy9ReWCI7TGskmPAJJGaXwdadrid1HchB8eTXQlY21aRZACOmGQfGNxrPR7SG0s3WFdpZizD3/ADFAHVLgxao7oykchUYZ9d2fqkaLdGaOZG25zuGDVVWasf/Z",
+      "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYABADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBv/EACYQAAIBAwIEBwAAAAAAAAAAAAECAwAEEQUSBhMxQRQiYXHB0fH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABURAQEAAAAAAAAAAAAAAAAAAABB/9oADAMBAAIRAxEAPwAPE9hy9ReWCI7TGskmOgJJGaXwdaeW4ndRkkIPbqfiuhKxtq0qyAEeGGQemNxrPSLSG0s3WFQu5izD1/KCDqlwYtUd0ZSOQqMM992fqkaLdGZJkbbnO4YPaqqpMf/Z",
     credit: { photographer: "Pavel Gromov", url: "https://unsplash.com/photos/sleek-minimalist-corridor-leading-to-a-modern-office-space-_x0IIgT4Rcg" },
   },
 } satisfies Record<string, SiteImage>;

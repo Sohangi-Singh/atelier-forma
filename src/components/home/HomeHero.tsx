@@ -1,6 +1,7 @@
 import Image from "next/image";
-import { ButtonLink } from "@/components/ui/primitives";
+import { ArrowLink, ButtonLink } from "@/components/ui/primitives";
 import { images } from "@/content/images";
+import { site } from "@/content/site";
 
 const hero = images["home-hero"];
 
@@ -52,16 +53,23 @@ export function HomeHero() {
               Residential, hospitality and commercial interiors composed with natural light,
               honest materials and restraint.
             </p>
-            <ButtonLink href="/projects" variant="outline-light" className="mt-8">
-              Explore our work
-            </ButtonLink>
+            <div className="mt-8 flex flex-wrap items-center gap-x-8 gap-y-5 lg:flex-col lg:items-start">
+              {/* Not prefetched: the contact route carries the form bundle, which would
+                  otherwise download during the hero's first load. */}
+              <ButtonLink href="/contact" variant="solid-light" prefetch={false}>
+                {site.consultationLabel}
+              </ButtonLink>
+              <ArrowLink href="/projects" tone="light">
+                Explore our work
+              </ArrowLink>
+            </div>
           </div>
         </div>
       </div>
 
       <a
         href="#introduction"
-        className="focus-light absolute bottom-0 left-1/2 hidden -translate-x-1/2 flex-col items-center gap-3 pb-0 md:flex"
+        className="focus-light absolute bottom-0 left-1/2 hidden -translate-x-1/2 flex-col items-center gap-3 pb-0 lg:flex"
       >
         <span className="label text-[0.625rem] text-ivory/75">Scroll</span>
         <span aria-hidden="true" className="relative block h-14 w-px overflow-hidden bg-ivory/20">
